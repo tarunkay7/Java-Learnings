@@ -10,6 +10,7 @@ public class FootBall
         playname = sc.next();
         country  = sc.next();
         goals = sc.nextInt();
+        sc.close();
 
 
     }

@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "Java Tutorials_d7ff710"
+        },
+        {
+            "type": "java",
+            "name": "Launch MovieShow",
+            "request": "launch",
+            "mainClass": "MovieShow",
+            "projectName": "Java Tutorials_d7ff710"
+        },
+        {
+            "type": "java",
+            "name": "Launch FootBall",
+            "request": "launch",
+            "mainClass": "FootBall",
+            "projectName": "Java Tutorials_d7ff710"
+        },
+        {
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/app.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        }
+    ]
+}
