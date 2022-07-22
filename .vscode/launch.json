@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FootBall",
+            "request": "launch",
+            "mainClass": "FootBall",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstSwingExample",
+            "request": "launch",
+            "mainClass": "FirstSwingExample",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch TimeDemo",
+            "request": "launch",
+            "mainClass": "TimeDemo",
+            "projectName": "Java Tutorials_d7ff710"
+        },
+        {
+            "type": "java",
+            "name": "Launch AccountDemo",
+            "request": "launch",
+            "mainClass": "AccountDemo",
+            "projectName": "Java Tutorials_d7ff710"
+        },
+        {
+            "type": "java",
             "name": "Launch Student",
             "request": "launch",
             "mainClass": "Student",
