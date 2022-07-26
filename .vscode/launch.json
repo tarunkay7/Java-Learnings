@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch weightboxdemo",
+            "request": "launch",
+            "mainClass": "weightboxdemo",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoxDemo",
+            "request": "launch",
+            "mainClass": "BoxDemo",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
             "name": "Launch Shape",
             "request": "launch",
             "mainClass": "Shape",
